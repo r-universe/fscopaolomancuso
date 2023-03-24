@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "fractD"]
+	path = fractD
+	url = https://github.com/cran/fractD
+	shallow = true
+	registered = true
